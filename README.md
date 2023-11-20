@@ -1,2 +1,2 @@
 # main-site
-Online Store
+Online Store from acorns-finders
